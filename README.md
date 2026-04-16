@@ -101,8 +101,3 @@ Google Colab • Arduino • Verilog • DSA
 </p>
 
 
-<!-- 🔥 Footer -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
-</p>
