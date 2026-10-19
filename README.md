@@ -99,6 +99,3 @@ Additional areas: Computer Networks, Automation Scripts, DevOps Tools, Arduino, 
   <sub>Build with purpose · Learn through practice · Improve continuously</sub>
 </p>
 
-<p align="center">
-  <sub>Lavender & charcoal · Designed for clarity</sub>
-</p>
