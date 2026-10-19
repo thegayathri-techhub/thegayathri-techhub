@@ -1,146 +1,64 @@
 
-<div align="center">
+<h2 align="left">Software Developer | AI & Machine Learning</h2>
 
-<img src="https://img.shields.io/badge/DEVELOPER_PROFILE-9B8AC4?style=flat-square&labelColor=292633" alt="Developer Profile"/>
+<p align="left">
+  Interested in building useful applications, exploring machine learning,
+  and developing software that solves practical problems.
+</p>
 
-# Software Development & Applied AI
-
-*Building applications. Exploring intelligent systems. Learning through code.*
-
-[Repositories](https://github.com/thegayathri-techhub?tab=repositories)
-
-</div>
-
----
-
-## About
-
-My work and interests span software development, machine learning,
-generative AI, automation, and hardware-based systems.
-
-I enjoy exploring technical ideas through practical projects,
-experimenting with different technologies, and improving the way
-applications are designed and built.
-
-## Selected Projects
-
-### 01 — Prompt-Based Generative AI Application
-
-A text summarization and question-answering application built using
-a language model API, with attention to prompt design and response
-quality evaluation.
-
-**Technologies:** Python · Streamlit · Hugging Face · Llama 3
-
-[Repository](https://github.com/thegayathri-techhub/prompt-genai-app) · [Live application](https://prompt-genai-app-8x363bjxxaadjyyxc4vtj6.streamlit.app)
-
-### 02 — COVID-19 Chest X-ray Classification
-
-A machine learning project exploring chest X-ray classification
-across COVID-19, pneumonia, and normal categories using K-Nearest
-Neighbors and image preprocessing.
-
-**Technologies:** Python · OpenCV · scikit-learn · KNN
-
-[Repository](https://github.com/thegayathri-techhub/covid19_knn_classifier)
-
-### 03 — MediCloud
-
-A healthcare records management application focused on patient
-information, profiles, appointments, and medical records.
-
-**Technologies:** Python · Flask · MongoDB · HTML · CSS · JavaScript
-
-[Repository](https://github.com/thegayathri-techhub/medicloud)
-
-### 04 — Li-Fi Communication System
-
-A hardware project exploring data transmission through visible light
-using LED-based communication.
-
-**Technologies:** Arduino · C++
-
-[Repository](https://github.com/thegayathri-techhub/LIFi_model)
-
-### 05 — Restaurant Table Booking Website
-
-A responsive website featuring restaurant information, an interactive
-menu, and a table-booking interface.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[Repository](https://github.com/thegayathri-techhub/restaurant-table-booking)
-
-### 06 — Smart Calculator
-
-A browser-based calculator supporting arithmetic operations,
-square calculations, input correction, and calculation history.
-
-**Technologies:** HTML · CSS · JavaScript · Bootstrap
-
-[Repository](https://github.com/thegayathri-techhub/Calculator) · [Live demo](https://gayathri-calculator.netlify.app)
+<p align="left">
+  <a href="https://github.com/thegayathri-techhub?tab=repositories">Explore repositories</a>
+</p>
 
 ---
 
-## Internship Experience
+### Projects
 
-### Software Engineer Intern — DevOps
-**Granite River Labs Technology Pvt. Ltd. | June 2024 – July 2024**
+| Project | Description | Technologies |
+|---|---|---|
+| [Generative AI Application](https://github.com/thegayathri-techhub/prompt-genai-app) | Text summarization and question answering using language models. | Python, Streamlit, Hugging Face |
+| [COVID-19 X-ray Classification](https://github.com/thegayathri-techhub/covid19_knn_classifier) | Classifies chest X-ray images into COVID-19, pneumonia, and normal categories. | Python, OpenCV, KNN |
+| [MediCloud](https://github.com/thegayathri-techhub/medicloud) | Web-based healthcare records management platform. | Flask, MongoDB, HTML, CSS |
+| [Li-Fi Communication](https://github.com/thegayathri-techhub/LIFi_model) | Demonstrates data transmission using visible light. | C++, Electronics |
+| [Restaurant Table Booking](https://github.com/thegayathri-techhub/restaurant-table-booking) | Restaurant website with an interactive menu and table-booking interface. | HTML, CSS, JavaScript |
+| [Smart Calculator](https://github.com/thegayathri-techhub/Calculator) | Browser-based calculator with arithmetic operations and calculation history. | HTML, CSS, JavaScript, Bootstrap |
 
-- Developed automated workflow bots, reducing manual effort by 25%.
-- Built a multilingual PDF extraction system, improving accessibility by 30%.
-- Designed hardware logic using Verilog for R&D projects.
-- Participated in code reviews to improve code quality.
+### Experience
 
-### Frontend Development Intern
-**Gowri Software Solutions Pvt. Ltd. | September 2024 – October 2024**
+**Software Engineer Intern — DevOps**  
+Granite River Labs Technology Pvt. Ltd. · Jun–Jul 2024
 
-- Developed responsive user interfaces using HTML, CSS, and JavaScript.
-- Improved performance and load time by 20%.
-- Worked on cross-browser compatibility and modern UI standards.
+Workflow automation, PDF extraction, and Verilog-based R&D tasks.
 
-### Machine Learning Intern
-**System Tron Pvt. Ltd. | January 2025 – February 2025**
+**Frontend Development Intern**  
+Gowri Software Solutions Pvt. Ltd. · Sep–Oct 2024
 
-- Built IPL prediction models with 85% accuracy.
-- Automated preprocessing workflows, reducing manual work by 40%.
-- Improved model performance by 15% through tuning.
-- Documented workflows to support reproducibility.
+Responsive user interfaces, web performance, and cross-browser compatibility.
 
----
+**Machine Learning Intern**  
+System Tron Pvt. Ltd. · Jan–Feb 2025
 
-## Technical Skills
+IPL prediction models, data preprocessing, and model tuning.
 
-**Programming:** Python, Java, JavaScript, SQL, Verilog
+### Technical Skills
 
-**Web Development:** HTML, CSS, React, Node.js
+- **Languages:** Python, Java, JavaScript, SQL, Verilog
+- **Web:** HTML, CSS, React, Node.js
+- **AI/ML:** scikit-learn, OpenCV, machine learning, prompt engineering
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Google Colab, automation scripts, DevOps tools
+- **Other:** Computer networks, Arduino, LangChain (basic)
 
-**AI & Machine Learning:** scikit-learn, OpenCV, model evaluation, prompt engineering
+### Certifications & Recognition
 
-**Generative AI:** OpenAI API, Hugging Face, LangChain (basic)
-
-**Databases:** MySQL, MongoDB
-
-**Tools & Systems:** Git, GitHub, Google Colab, automation scripts, DevOps tools, computer networks, Arduino
-
----
-
-## Certifications & Recognition
-
+- Top 10 — Innovative Project Expo, AI-Based Robot for Elderly Care
 - Machine Learning — System Tron
 - DevOps Engineering — Granite River Labs
 - Full Stack Development — Plasmid
 - Frontend Development — Gowri Software
 - Li-Fi Technology — InventiFy
 - AI Robotics — Arduino
-- Top 10 — Innovative Project Expo, AI-Based Robot for Elderly Care
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILD-9B8AC4?style=flat-square&labelColor=292633" alt="Build"/>
-<img src="https://img.shields.io/badge/LEARN-9B8AC4?style=flat-square&labelColor=292633" alt="Learn"/>
-<img src="https://img.shields.io/badge/IMPROVE-9B8AC4?style=flat-square&labelColor=292633" alt="Improve"/>
-
-</div>
+<p align="left"><i>Build with purpose. Learn through practice. Improve continuously.</i></p>
