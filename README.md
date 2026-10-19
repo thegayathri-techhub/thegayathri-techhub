@@ -1,10 +1,11 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/DEVELOPER_PROFILE-9B8AC4?style=flat-square&labelColor=292633" alt="Developer Profile"/>
+
 # Software Development & Applied AI
 
-A collection of projects across web development, machine learning,
-generative AI, and hardware-based systems.
+*Building applications. Exploring intelligent systems. Learning through code.*
 
 [Repositories](https://github.com/thegayathri-techhub?tab=repositories)
 
@@ -12,84 +13,134 @@ generative AI, and hardware-based systems.
 
 ---
 
-## Selected Work
+## About
 
-### 01. Prompt-Based Generative AI Application
+My work and interests span software development, machine learning,
+generative AI, automation, and hardware-based systems.
 
-A Streamlit application for text summarization and question answering, using Hugging Face's inference API and the Llama 3 model. The project also includes an evaluation workflow for assessing response quality and hallucinations.
+I enjoy exploring technical ideas through practical projects,
+experimenting with different technologies, and improving the way
+applications are designed and built.
+
+## Selected Projects
+
+### 01 — Prompt-Based Generative AI Application
+
+A text summarization and question-answering application built using
+a language model API, with attention to prompt design and response
+quality evaluation.
 
 **Technologies:** Python · Streamlit · Hugging Face · Llama 3
 
-[View repository](https://github.com/thegayathri-techhub/prompt-genai-app) · [Live application](https://prompt-genai-app-8x363bjxxaadjyyxc4vtj6.streamlit.app)
+[Repository](https://github.com/thegayathri-techhub/prompt-genai-app) · [Live application](https://prompt-genai-app-8x363bjxxaadjyyxc4vtj6.streamlit.app)
 
-### 02. COVID-19 Chest X-ray Classification
+### 02 — COVID-19 Chest X-ray Classification
 
-A machine learning project that classifies chest X-ray images into COVID-19, pneumonia, and normal categories using K-Nearest Neighbors, with image preprocessing and performance evaluation.
+A machine learning project exploring chest X-ray classification
+across COVID-19, pneumonia, and normal categories using K-Nearest
+Neighbors and image preprocessing.
 
 **Technologies:** Python · OpenCV · scikit-learn · KNN
 
-[View repository](https://github.com/thegayathri-techhub/covid19_knn_classifier)
+[Repository](https://github.com/thegayathri-techhub/covid19_knn_classifier)
 
-### 03. MediCloud — Healthcare Records Management
+### 03 — MediCloud
 
-A web-based healthcare records platform with patient and profile management, appointment scheduling, and medical information management.
+A healthcare records management application focused on patient
+information, profiles, appointments, and medical records.
 
 **Technologies:** Python · Flask · MongoDB · HTML · CSS · JavaScript
 
-[View repository](https://github.com/thegayathri-techhub/medicloud)
+[Repository](https://github.com/thegayathri-techhub/medicloud)
 
-### 04. Li-Fi Communication System
+### 04 — Li-Fi Communication System
 
-A hardware project exploring data transmission through visible light using LED-based communication as an alternative to conventional wireless communication.
+A hardware project exploring data transmission through visible light
+using LED-based communication.
 
 **Technologies:** Arduino · C++
 
-[View repository](https://github.com/thegayathri-techhub/LIFi_model)
+[Repository](https://github.com/thegayathri-techhub/LIFi_model)
 
-### 05. Restaurant Table Booking Website
+### 05 — Restaurant Table Booking Website
 
-A responsive restaurant website with an interactive menu, restaurant information, and a table-booking interface.
+A responsive website featuring restaurant information, an interactive
+menu, and a table-booking interface.
 
 **Technologies:** HTML · CSS · JavaScript
 
-[View repository](https://github.com/thegayathri-techhub/restaurant-table-booking)
+[Repository](https://github.com/thegayathri-techhub/restaurant-table-booking)
 
-### 06. Smart Calculator
+### 06 — Smart Calculator
 
-A responsive calculator supporting arithmetic operations, square calculations, input correction, and calculation history.
+A browser-based calculator supporting arithmetic operations,
+square calculations, input correction, and calculation history.
 
 **Technologies:** HTML · CSS · JavaScript · Bootstrap
 
-[View repository](https://github.com/thegayathri-techhub/Calculator) · [Live demo](https://gayathri-calculator.netlify.app)
+[Repository](https://github.com/thegayathri-techhub/Calculator) · [Live demo](https://gayathri-calculator.netlify.app)
 
 ---
 
-## Technical Areas
+## Internship Experience
 
-| Area | Technologies |
-|---|---|
-| Programming | Python, Java, JavaScript, SQL, Verilog |
-| Web development | HTML, CSS, React, Node.js |
-| AI and machine learning | scikit-learn, OpenCV, model evaluation |
-| Generative AI | Prompt engineering, OpenAI API, Hugging Face |
-| Databases | MySQL, MongoDB |
-| Tools and automation | Git, GitHub, Google Colab, automation scripts, DevOps tools |
-| Systems and hardware | Computer networks, Arduino |
+### Software Engineer Intern — DevOps
+**Granite River Labs Technology Pvt. Ltd. | June 2024 – July 2024**
+
+- Developed automated workflow bots, reducing manual effort by 25%.
+- Built a multilingual PDF extraction system, improving accessibility by 30%.
+- Designed hardware logic using Verilog for R&D projects.
+- Participated in code reviews to improve code quality.
+
+### Frontend Development Intern
+**Gowri Software Solutions Pvt. Ltd. | September 2024 – October 2024**
+
+- Developed responsive user interfaces using HTML, CSS, and JavaScript.
+- Improved performance and load time by 20%.
+- Worked on cross-browser compatibility and modern UI standards.
+
+### Machine Learning Intern
+**System Tron Pvt. Ltd. | January 2025 – February 2025**
+
+- Built IPL prediction models with 85% accuracy.
+- Automated preprocessing workflows, reducing manual work by 40%.
+- Improved model performance by 15% through tuning.
+- Documented workflows to support reproducibility.
 
 ---
 
-## Development Focus
+## Technical Skills
 
-- Building web applications with practical functionality.
-- Applying machine learning to classification and prediction tasks.
-- Exploring generative AI, prompt design, and response evaluation.
-- Developing automation workflows and hardware-based projects.
-- Improving code quality, documentation, and reproducibility.
+**Programming:** Python, Java, JavaScript, SQL, Verilog
+
+**Web Development:** HTML, CSS, React, Node.js
+
+**AI & Machine Learning:** scikit-learn, OpenCV, model evaluation, prompt engineering
+
+**Generative AI:** OpenAI API, Hugging Face, LangChain (basic)
+
+**Databases:** MySQL, MongoDB
+
+**Tools & Systems:** Git, GitHub, Google Colab, automation scripts, DevOps tools, computer networks, Arduino
+
+---
+
+## Certifications & Recognition
+
+- Machine Learning — System Tron
+- DevOps Engineering — Granite River Labs
+- Full Stack Development — Plasmid
+- Frontend Development — Gowri Software
+- Li-Fi Technology — InventiFy
+- AI Robotics — Arduino
+- Top 10 — Innovative Project Expo, AI-Based Robot for Elderly Care
 
 ---
 
 <div align="center">
 
-*Build. Test. Learn. Improve.*
+<img src="https://img.shields.io/badge/BUILD-9B8AC4?style=flat-square&labelColor=292633" alt="Build"/>
+<img src="https://img.shields.io/badge/LEARN-9B8AC4?style=flat-square&labelColor=292633" alt="Learn"/>
+<img src="https://img.shields.io/badge/IMPROVE-9B8AC4?style=flat-square&labelColor=292633" alt="Improve"/>
 
 </div>
