@@ -93,16 +93,6 @@
 
 Additional areas: Computer Networks, Automation Scripts, DevOps Tools, Arduino, and basic LangChain.
 
-### Certifications & Recognition
-
-- **Top 10** — Innovative Project Expo, AI-Based Robot for Elderly Care
-- Machine Learning — System Tron
-- DevOps Engineering — Granite River Labs
-- Full Stack Development — Plasmid
-- Frontend Development — Gowri Software
-- Li-Fi Technology — InventiFy
-- AI Robotics — Arduino
-
 ---
 
 <p align="center">
